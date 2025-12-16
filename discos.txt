@@ -1,4 +1,9 @@
 
+Turn on the bright lights
+The Doors
+American Idiot
+=======
+
 discos 1 Disquito
 discos 2 Discazo
 discos 3 Disquete
@@ -11,5 +16,6 @@ disco 3
 discos 1
 discos 2
 discos 3
+
 
 
